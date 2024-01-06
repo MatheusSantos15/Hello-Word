@@ -9,7 +9,7 @@
  *Italico*
 
  ***Negrito e Italico***
- 
+
  ~~Texto deletado~~
 ---
  ## Nivel Dois
@@ -37,4 +37,14 @@
 Nome | Numero | Tamanho 
 ---|---|---
 Matheus | 15 | 1.71
+
+### Códigos Fontes
+
+```
+num int(input('Escreva um número'))
+print('O dobro do numero{} é: {}' .format(num, num*2))
+
+
+```
+:vulcan_salute:
 
