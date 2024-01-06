@@ -5,8 +5,11 @@
  # Linguagem Markdown
 
  **Negrito**
+
  *Italico*
+
  ***Negrito e Italico***
+ 
  ~~Texto deletado~~
 ---
  ## Nivel Dois
