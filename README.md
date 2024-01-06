@@ -26,6 +26,6 @@
 * PHP
 
 
-- [x]Criar O repositório
-- []Criar o código Index
+- [x] Criar O repositório
+- [] Criar o código Index
 
