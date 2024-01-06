@@ -4,4 +4,28 @@
 
  # Linguagem Markdown
 
- 
+ **Negrito**
+ *Italico*
+ ***Negrito e Italico***
+ ~~Texto deletado~~
+---
+ ## Nivel Dois
+---
+### Nivel Tres
+
+#### Listas 
+
+1. Primeira Lista
+2. Segunda Lista
+   1. Lista Filha
+
+
+* Python
+* HTML
+   * CSS
+* PHP
+
+
+- [x]Criar O repositório
+- []Criar o código Index
+
