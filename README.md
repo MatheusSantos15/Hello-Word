@@ -27,5 +27,5 @@
 
 
 - [x] Criar O repositório
-- [] Criar o código Index
+- [ ] Criar o código Index
 
